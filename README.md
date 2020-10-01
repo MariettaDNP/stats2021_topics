@@ -4,7 +4,4 @@ The purpose of this repository is to list some statistics learning modules by to
 
 ##
 
-* Exercise: Set up a programming environment: https://github.com/cmcntsh/stats2021_setup
-* Exercise: Git and GitHub practice: https://github.com/cmcntsh/exerGitPractice
 * Introduction to statistics: https://github.com/cmcntsh/stats2021_intro
-* Exercise: Opening files: https://github.com/cmcntsh/stats2021_exer_OpenFiles
