@@ -6,3 +6,4 @@ The purpose of this repository is to list some statistics learning modules by to
 
 * Introduction to statistics: https://github.com/cmcntsh/stats2021_intro
 * Foundations - data cleaning, probability: https://github.com/cmcntsh/stats2021_dataCleaning
+* Foundations - Null Hypothesis Significance Testing (NHST): https://github.com/cmcntsh/stats2021_NHST
