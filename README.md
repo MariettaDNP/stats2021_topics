@@ -31,3 +31,4 @@ The purpose of this repository is to list some statistics learning modules by to
 * Data Science Videos (Several playlists worth watching): https://www.youtube.com/c/datalabcc/playlists
 * Statistics for data science course (2019). This series has some nice sections on probability and examples of NHST worked manually.: https://www.youtube.com/watch?v=hjZJIVWHnPE&list=PLG9A6ovzPqX5_fZeBLp6hUUZuHPYcbBsW&index=5
 * Statistis for data science course (2020). This series has some nice sections on types of probability distributions.: https://www.youtube.com/watch?v=sbbYntt5CJk&list=PLG9A6ovzPqX5_fZeBLp6hUUZuHPYcbBsW&index=6&t=24753s
+* Some Newer Jamovi videos (2020) https://www.youtube.com/playlist?list=PLvYqRUmlLZUOSjDKeEiukZWayxpuiFPRp
