@@ -31,6 +31,7 @@ The purpose of this repository is to list some statistics learning modules by to
 * Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences by Cohen, Cohen, West, Aiken
 * Applied Multivariate Statistics for the Social Sciences by James P. Stevens
 * Using Multivariate Statistics by Tabachnick and Fidell
+* The Elements of Statistical Learning Data Mining, Inference, and Prediction by Hastie, Tibshirani, Friedman: https://web.stanford.edu/~hastie/ElemStatLearn/
 
 ## Other relevant materials
 
