@@ -48,3 +48,4 @@ The purpose of this repository is to list some statistics learning modules by to
 * The fundamentals of statistics for QI https://www.complianceonline.com/resources/the-fundamentals-of-statistics-for-quality-improvement.html
 * The use of statistics for healthcare QI https://juniperpublishers.com/jojnhc/pdf/JOJNHC.MS.ID.555746.pdf
 * A guide to control charts https://www.isixsigma.com/tools-templates/control-charts/a-guide-to-control-charts/
+* Four essential ways control charts guide healthcare improvement https://www.healthcatalyst.com/insights/quality-improvement-healthcare-5-guiding-principles
