@@ -45,3 +45,4 @@ The purpose of this repository is to list some statistics learning modules by to
 * MAGIC https://www2.cs.sfu.ca/CourseCentral/376/ted/376-08-1/MAGIC-criteria.pdf
 * SQUIRE https://qualitysafety.bmj.com/content/17/Suppl_1/i13
 * Statistical methods in quality improvement https://asq.org/quality-resources/statistics
+* The fundamentals of statistics for QI https://www.complianceonline.com/resources/the-fundamentals-of-statistics-for-quality-improvement.html
