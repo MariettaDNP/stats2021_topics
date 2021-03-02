@@ -46,3 +46,4 @@ The purpose of this repository is to list some statistics learning modules by to
 * SQUIRE https://qualitysafety.bmj.com/content/17/Suppl_1/i13
 * Statistical methods in quality improvement https://asq.org/quality-resources/statistics
 * The fundamentals of statistics for QI https://www.complianceonline.com/resources/the-fundamentals-of-statistics-for-quality-improvement.html
+* The use of statistics for healthcare QI https://juniperpublishers.com/jojnhc/pdf/JOJNHC.MS.ID.555746.pdf
