@@ -42,3 +42,4 @@ The purpose of this repository is to list some statistics learning modules by to
 * Some Newer Jamovi videos (2020) https://www.youtube.com/playlist?list=PLvYqRUmlLZUOSjDKeEiukZWayxpuiFPRp
 * Some pages about statistics in R and other statistics packages https://ssc.wisc.edu/sscc/pubs/stat.htm
 * Some checklists for performing analyses (in context with study design process) https://github.com/cmcntsh/statisticalAnalysisSteps
+* MAGIC https://www2.cs.sfu.ca/CourseCentral/376/ted/376-08-1/MAGIC-criteria.pdf
