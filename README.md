@@ -44,3 +44,4 @@ The purpose of this repository is to list some statistics learning modules by to
 * Some checklists for performing analyses (in context with study design process) https://github.com/cmcntsh/statisticalAnalysisSteps
 * MAGIC https://www2.cs.sfu.ca/CourseCentral/376/ted/376-08-1/MAGIC-criteria.pdf
 * SQUIRE https://qualitysafety.bmj.com/content/17/Suppl_1/i13
+* Statistical methods in quality improvement https://asq.org/quality-resources/statistics
