@@ -18,6 +18,7 @@ The purpose of this repository is to list some statistics learning modules by to
 * ANCOVA & RMANOVA: https://github.com/cmcntsh/stats2021_ANCOVA_RMANOVA
 * Regression diagnostics: https://github.com/cmcntsh/stats2021_regressionDiagnostics
 * Logistic regression: https://github.com/cmcntsh/logisticRegression
+* Statistics for quality: https://github.com/cmcntsh/stats2021_quality
 
 ## Statistics texts
 
