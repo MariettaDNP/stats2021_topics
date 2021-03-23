@@ -50,3 +50,4 @@ The purpose of this repository is to list some statistics learning modules by to
 * The use of statistics for healthcare QI https://juniperpublishers.com/jojnhc/pdf/JOJNHC.MS.ID.555746.pdf
 * A guide to control charts https://www.isixsigma.com/tools-templates/control-charts/a-guide-to-control-charts/
 * Four essential ways control charts guide healthcare improvement https://www.healthcatalyst.com/insights/quality-improvement-healthcare-5-guiding-principles
+* Data Wrangling in Julia: https://www.youtube.com/watch?v=txme9o0EdLk & https://www.youtube.com/watch?v=NbqQZq42gLc
