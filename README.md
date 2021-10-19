@@ -51,3 +51,4 @@ The purpose of this repository is to list some statistics learning modules by to
 * A guide to control charts https://www.isixsigma.com/tools-templates/control-charts/a-guide-to-control-charts/
 * Four essential ways control charts guide healthcare improvement https://www.healthcatalyst.com/insights/quality-improvement-healthcare-5-guiding-principles
 * Data Wrangling in Julia: https://www.youtube.com/watch?v=txme9o0EdLk & https://www.youtube.com/watch?v=NbqQZq42gLc
+* Data Science site (competitions, datasets, online Jupyter Notebook for Python or R, discussion boards, courses): https://www.kaggle.com/
