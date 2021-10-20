@@ -52,3 +52,13 @@ The purpose of this repository is to list some statistics learning modules by to
 * Four essential ways control charts guide healthcare improvement https://www.healthcatalyst.com/insights/quality-improvement-healthcare-5-guiding-principles
 * Data Wrangling in Julia: https://www.youtube.com/watch?v=txme9o0EdLk & https://www.youtube.com/watch?v=NbqQZq42gLc
 * Data Science site (competitions, datasets, online Jupyter Notebook for Python or R, discussion boards, courses): https://www.kaggle.com/
+* Professional associations
+  * Healthcare Data Analytics Association https://hdaa.memberclicks.net/
+  * American Medical Informatics Association https://amia.org/
+  * Healthcare Information Management Systems Society https://www.himss.org/
+  * American Nursing Informatics Association https://www.ania.org/
+  * American Statistical Association https://www.amstat.org/
+* Data Literacy
+  * Be Data Literate - Jordan Morrow https://www.amazon.com/Be-Data-Literate-Literacy-Everyone/dp/1789668018/ref=sr_1_1?dchild=1&keywords=be+data+literate&qid=1634740512&qsid=139-9171305-4698707&sr=8-1&sres=1789668034%2C173326342X%2CB09J3VCLVN%2CB089CSW3Y6%2CB07TXLZ8MR%2C0578639874%2CB07TPZVRFM%2C1885095570%2CB07BB5FDS2%2CB00H56KCUU%2CB000ZOEOEY%2CB07D34Q45N%2CB07NSH2B4D%2CB08K2VZNCV%2CB07TW86LR8%2CB07N6JZ2J4&srpt=ABIS_BOOK
+  * https://thedataliteracyproject.org/
+  * https://www.thedatalodge.com/
