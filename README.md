@@ -29,6 +29,7 @@ The purpose of this repository is to list some statistics learning modules by to
 * Applied Statistics with R by David Dalpiaz: https://daviddalpiaz.github.io/appliedstats/
 * Openintro Statistics https://www.openintro.org/book/os/
 * Introductory Statistics for the Life and Biomedical Sciences https://openintro.org/book/biostat/
+  * Lab materials https://github.com/OI-Biostat/oi_biostat_labs
 
 #### More advanced texts
 
