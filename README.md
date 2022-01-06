@@ -27,6 +27,7 @@ The purpose of this repository is to list some statistics learning modules by to
 * R for Data Science by Garrett Grolemund, Hadley Wickham: https://r4ds.had.co.nz/
 * R for Researchers: An Introduction by Tyson S. Barrett: https://tysonbarrett.com/Rstats/index.html
 * Applied Statistics with R by David Dalpiaz: https://daviddalpiaz.github.io/appliedstats/
+* Openintro Statistics https://www.openintro.org/book/os/
 
 #### More advanced texts
 
