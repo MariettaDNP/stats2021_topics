@@ -30,6 +30,8 @@ The purpose of this repository is to list some statistics learning modules by to
 * Openintro Statistics https://www.openintro.org/book/os/
   * Lab materials (see lower section of page on link above)
   * Videos https://www.youtube.com/user/OpenIntroOrg/playlists
+  * Datasets https://www.openintro.org/data/
+  * Other data resources https://stat2labs.sites.grinnell.edu/DataResources.html
 * Introductory Statistics for the Life and Biomedical Sciences https://openintro.org/book/biostat/
   * Lab materials https://github.com/OI-Biostat/oi_biostat_labs
 
