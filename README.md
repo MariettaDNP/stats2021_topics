@@ -27,14 +27,16 @@ The purpose of this repository is to list some statistics learning modules by to
 * R for Data Science by Garrett Grolemund, Hadley Wickham: https://r4ds.had.co.nz/
 * R for Researchers: An Introduction by Tyson S. Barrett: https://tysonbarrett.com/Rstats/index.html
 * Applied Statistics with R by David Dalpiaz: https://daviddalpiaz.github.io/appliedstats/
-* Openintro Statistics https://www.openintro.org/book/os/
+* OpenIntro Statistics https://www.openintro.org/book/os/
   * I don't like the actual text content as much as Field or Navarro (above), but the lab material is nice.
-    * Sampling methods
+    * Sampling methods, experimental design in Ch 1 is good.
+    * Probability, random variables, distributions in Ch 3, Ch 4 is good.
   * Lab materials (see lower section of page on link above)
   * Videos https://www.youtube.com/user/OpenIntroOrg/playlists
   * Datasets https://www.openintro.org/data/
   * Other data resources https://stat2labs.sites.grinnell.edu/DataResources.html
 * Introductory Statistics for the Life and Biomedical Sciences https://openintro.org/book/biostat/
+  * This text is somewhat based on OpenIntro Statistics (above). Content of first 4 chapters seems similar, although this uses more biologically based examples.
   * Lab materials https://github.com/OI-Biostat/oi_biostat_labs
 
 #### More advanced texts
