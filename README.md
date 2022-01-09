@@ -28,6 +28,8 @@ The purpose of this repository is to list some statistics learning modules by to
 * R for Researchers: An Introduction by Tyson S. Barrett: https://tysonbarrett.com/Rstats/index.html
 * Applied Statistics with R by David Dalpiaz: https://daviddalpiaz.github.io/appliedstats/
 * Openintro Statistics https://www.openintro.org/book/os/
+  * I don't like the actual text content as much as Field or Navarro (above), but the lab material is nice.
+    * Sampling methods
   * Lab materials (see lower section of page on link above)
   * Videos https://www.youtube.com/user/OpenIntroOrg/playlists
   * Datasets https://www.openintro.org/data/
