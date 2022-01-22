@@ -38,6 +38,7 @@ The purpose of this repository is to list some statistics learning modules by to
 * Introductory Statistics for the Life and Biomedical Sciences https://openintro.org/book/biostat/
   * This text is somewhat based on OpenIntro Statistics (above). Content of first 4 chapters seems similar, although this uses more biologically based examples.
   * Lab materials https://github.com/OI-Biostat/oi_biostat_labs
+* Nonparametric Statistics for Health Care Research by Marjorie A. Pett
 
 #### More advanced texts
 
