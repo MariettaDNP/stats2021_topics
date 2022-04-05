@@ -53,6 +53,7 @@ The purpose of this repository is to list some statistics learning modules by to
 * Statistics for data science course (2019). This series has some nice sections on probability and examples of NHST worked manually.: https://www.youtube.com/watch?v=hjZJIVWHnPE&list=PLG9A6ovzPqX5_fZeBLp6hUUZuHPYcbBsW&index=5
 * Statistis for data science course (2020). This series has some nice sections on types of probability distributions.: https://www.youtube.com/watch?v=sbbYntt5CJk&list=PLG9A6ovzPqX5_fZeBLp6hUUZuHPYcbBsW&index=6&t=24753s
 * Some Newer Jamovi videos (2020) https://www.youtube.com/playlist?list=PLvYqRUmlLZUOSjDKeEiukZWayxpuiFPRp
+* Quick exploratory data analysis in R - DataExplorer package: https://www.youtube.com/watch?v=W3xErD6qIzg
 * Some pages about statistics in R and other statistics packages https://ssc.wisc.edu/sscc/pubs/stat.htm
 * Some checklists for performing analyses (in context with study design process) https://github.com/cmcntsh/statisticalAnalysisSteps
 * MAGIC https://www2.cs.sfu.ca/CourseCentral/376/ted/376-08-1/MAGIC-criteria.pdf
