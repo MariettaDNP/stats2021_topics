@@ -67,6 +67,7 @@ The purpose of this repository is to list some statistics learning modules by to
 * Four essential ways control charts guide healthcare improvement https://www.healthcatalyst.com/insights/quality-improvement-healthcare-5-guiding-principles
 * Data Wrangling in Julia: https://www.youtube.com/watch?v=txme9o0EdLk & https://www.youtube.com/watch?v=NbqQZq42gLc
 * Data Science site (competitions, datasets, online Jupyter Notebook for Python or R, discussion boards, courses): https://www.kaggle.com/
+* Google Data Analytics Certificate https://grow.google/certificates/data-analytics/#?modal_active=none
 * Professional associations
   * Healthcare Data Analytics Association https://hdaa.memberclicks.net/
   * American Medical Informatics Association https://amia.org/
